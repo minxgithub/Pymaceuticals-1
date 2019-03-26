@@ -56,7 +56,7 @@ From these data, it is likely that due to Capomulin treatment on reducing tumor 
 
 #### Mice treated with Capomulin display significant reduction in tumor volume for the entire treatment period 
 
-#### Figure 4
+##### Figure 4
 <img src="https://github.com/ying-li-python/Pymaceuticals/blob/master/Images/tumor_volume.png"> 
 
 According to the results from Figure 4, Capomulin-treated mice showed significant reduction in tumor growth between day 0 and 45, as compared to that of other drugs. As expected, Placebo-treated mice displayed increased tumor growth for the entire treatment period. Similarly, mice treated with Infubinol and Ketapril showed an overall increase in tumor growth for the 45 days of treatment. 
